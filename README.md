@@ -47,7 +47,7 @@ A log file `CrashPlan-HardLink.log` is created in the directory the command is r
 
 ## Installation
 
-The simplest way is to [Download](https://github.com/ned-martin/CrashPlan-/archive/main.zip) this module and put it in one of the default module locations. Powershell will then autoload the module.
+The simplest way is to [Download](https://github.com/ned-martin/CrashPlan-HardLink/archive/main.zip) this module and put it in one of the default module locations. Powershell will then autoload the module.
 
 Alternatively, one can manually load the module.
 
