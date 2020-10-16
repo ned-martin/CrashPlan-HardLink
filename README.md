@@ -1,5 +1,7 @@
 # CrashPlan-HardLink
-A Powershell module to create hardlinks to files so CrashPlan can back them up
+A Powershell module to create hardlinks to files so CrashPlan can back them up.
+
+If you would rather rename files, you can do that using [Rename-CrashPlan](https://github.com/ned-martin/Rename-CrashPlan) instead.
 
 ## Reason
 Despite their advertising (“Never worry about losing business-critical data again”, “Confidence that your files are backed up safely”, “Simplifies and streamlines all of your data backups”, …) [CrashPlan](https://www.crashplan.com/) actually restricts the types of files that can be backed up, so cannot be used as a complete backup solution.
