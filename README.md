@@ -41,7 +41,7 @@ The `-WhatIf` flag shows what would happen if run, but does not actually do it.
 
 Hardlinks to forbidden filetypes are created as below:
 
-`My Important Data.vhd` → `My Important Data.hardlink-vhd`
+`My Important Data.hardlink-vhd` → `My Important Data.vhd`
 
 A log file `CrashPlan-HardLink.log` is created in the directory the command is run from, listing all the files that were created or removed.
 
